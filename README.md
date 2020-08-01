@@ -1,3 +1,7 @@
+This is a forked file, pulled from https://github.com/jtleek/datasharing. The original GitHub account is https://github.com/jtleek. 
+
+
+
 How to share data with a statistician
 ===========
 
